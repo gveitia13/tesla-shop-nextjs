@@ -8,7 +8,7 @@ export default function NamePage() {
 
       <div className="w-full  xl:w-[1000px] flex flex-col justify-center text-left">
 
-        <Title title="Dirección" subtitle="Dirección de entrega"/>
+        <Title title="Dirección" subTitle="Dirección de entrega"/>
 
         <div className="grid grid-cols-1 gap-2 sm:gap-5 sm:grid-cols-2">
 
